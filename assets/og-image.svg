@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#111c4e"/>
+      <stop offset="100%" style="stop-color:#28336b"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1280" height="640" fill="url(#bg)"/>
+
+  <!-- Yellow accent bar left -->
+  <rect x="0" y="0" width="8" height="640" fill="#f5ec3a"/>
+
+  <!-- Yellow accent line bottom -->
+  <rect x="0" y="580" width="1280" height="2" fill="#f5ec3a" opacity="0.3"/>
+
+  <!-- Top label -->
+  <text x="72" y="100"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="18" font-weight="600" letter-spacing="0.18em"
+    fill="#f5ec3a" opacity="0.9" text-anchor="start">
+    CENTER FOR INTEGRATED COMMUNICATIONS
+  </text>
+
+  <!-- Main title: University of Makati -->
+  <text x="72" y="230"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="80" font-weight="400"
+    fill="#ffffff" text-anchor="start">
+    University of Makati
+  </text>
+
+  <!-- Repo name pill -->
+  <rect x="72" y="268" width="420" height="48" rx="4" fill="#f5ec3a"/>
+  <text x="88" y="300"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', monospace"
+    font-size="22" font-weight="700"
+    fill="#111c4e" text-anchor="start">
+    umak-public-assets
+  </text>
+
+  <!-- Description -->
+  <text x="72" y="380"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="28" font-weight="400"
+    fill="#c8cde8" text-anchor="start">
+    Official brand assets, fonts, and design tokens
+  </text>
+  <text x="72" y="420"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="28" font-weight="400"
+    fill="#c8cde8" text-anchor="start">
+    for UMak web applications and digital forms.
+  </text>
+
+  <!-- Divider -->
+  <rect x="72" y="478" width="240" height="2" fill="#47528a"/>
+
+  <!-- Footer: authors -->
+  <text x="72" y="518"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="18" font-weight="400"
+    fill="#7c85a8" text-anchor="start">
+    JR Grate · Arjun Andrade — Center for Integrated Communications
+  </text>
+
+  <!-- GitHub URL -->
+  <text x="72" y="556"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="18" font-weight="400"
+    fill="#47528a" text-anchor="start">
+    github.com/jayargrate/umak-public-assets
+  </text>
+
+  <!-- Decorative circles top-right -->
+  <circle cx="1180" cy="120" r="180" fill="#ffffff" opacity="0.03"/>
+  <circle cx="1220" cy="200" r="120" fill="#f5ec3a" opacity="0.05"/>
+  <circle cx="1100" cy="80"  r="80"  fill="#105389" opacity="0.2"/>
+</svg>
