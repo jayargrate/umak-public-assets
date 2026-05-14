@@ -3,6 +3,10 @@
 Official public assets for the **University of Makati**, maintained by the **Center for Integrated Communications (CIC)**.  
 Contact: [cic@umak.edu.ph](mailto:cic@umak.edu.ph)
 
+**Authors**  
+JR Grate — Branding Management, Center for Integrated Communications  
+Arjun Andrade — Creatives Lead, Center for Integrated Communications
+
 ---
 
 ## Repository Contents
